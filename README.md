@@ -1,5 +1,5 @@
 ##Roshanipathak web exercise
-#italic and bold
+# Italic and bold
 Writing in Markdown is not that hard!
 I **will** complete these lessons!
 "_of course_," she whispered. Then, she shouted: "All I need is** a little moxie**!"
@@ -12,7 +12,7 @@ I **will** complete these lessons!
 #####Header five
 ######Header six
 ####Colombian Symbolism in _One Hundred Years of Solitude_
-#Links
+# Links
 Search for it. [Search for it](www.google.com)
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 ####The Latest News from [the BBC](www.bbc.com/news:)
@@ -29,7 +29,7 @@ Well, do I have [the website for you][another fun place](www.stumbleupon.com)!
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
-#Blockquote
+# Blockquote
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
 >Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
 >
@@ -54,9 +54,10 @@ Well, do I have [the website for you][another fun place](www.stumbleupon.com)!
  * An opera singer
  * Has white hair
  * Is possibly mentally unwell
-
+ 
  1. Cut the cheese
   >Make sure that the cheese is cut into little triangles.
+
 2. Slice the tomatoes
   > Be careful when holding the knife.
    For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
@@ -70,4 +71,3 @@ To doubt they were kneeling then.
  If you _do_ make a mess, use a towel to clean it up!  
 2.  Pour a gallon of milk into the bowl.
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
- 
