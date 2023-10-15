@@ -1,25 +1,32 @@
 ##Roshanipathak web exercise
 # Italic and bold
-Writing in Markdown is not that hard!
+
+Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
-"_of course_," she whispered. Then, she shouted: "All I need is** a little moxie**!"
+"_of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
  If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
  # Headers
+ 
  #Header one
 ##Header two
 ###Header three
 ####Header four
 #####Header five
 ######Header six
+
 ####Colombian Symbolism in _One Hundred Years of Solitude_
+
 # Links
+
 Search for it. [Search for it](www.google.com)
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 ####The Latest News from [the BBC](www.bbc.com/news:)
 Do you want to [see something fun][a fun place](www.zombo.com)?
 
 Well, do I have [the website for you][another fun place](www.stumbleupon.com)!
+
 # Image
+
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ![Black cat][black](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
@@ -30,12 +37,14 @@ Well, do I have [the website for you][another fun place](www.stumbleupon.com)!
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
 # Blockquote
+
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
 >Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
 >
 >His father told him that story: his father looked at him through a glass: he had a hairy face.
 >
 >>He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
+>>
 # Lists
 *  Flour
 * Cheese
